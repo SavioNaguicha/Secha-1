@@ -43,7 +43,7 @@ persona1 = Persona("Savio", "Naguicha", 33, 1400883637)
 empleado1 = Empleado("Secha", "Sharupi", 40, 16788890, 800, 12)
 seguridad1 = Seguridad("Alvaro", "Novoa", 70, 12345678, 1500, 12, "toyota", "calibre 38")
 
-# imprimos el codigo
+# imprimimos el codigo
 print(persona1.saluda())
 print(empleado1.saluda())
 print(seguridad1.saluda())
